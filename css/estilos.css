@@ -1,14 +1,8 @@
 body
 {
-    color: blue;
+    color: #333;
     text-align: center;
-<<<<<<< HEAD
-    font-family: Courier;
-||||||| 8fa5c13
-    font-family: "Arial";
-=======
     font-family: Arial;
->>>>>>> cabecera
     font-size: 16px;
     margin: 0;
     padding: 0;
